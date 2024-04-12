@@ -1,1 +1,1 @@
-# .github
+A collection of things.
